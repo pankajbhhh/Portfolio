@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pankaj Kumar Bharti — Java Developer Portfolio
 
 React + Vite, plain CSS (no Tailwind), no backend. Content is taken from the resume.
@@ -30,3 +31,6 @@ skills, coding profiles, certifications, education.
   (`mailto:`), so messages genuinely reach your inbox without a backend.
 - Responsive: laptop (1180), tablet landscape (1024), tablet portrait (900),
   phone (640) and small phone (420).
+=======
+# Portfolio
+>>>>>>> b551699b7c21f7108a478e8d4963d342046814e5
